@@ -17,7 +17,7 @@ public class QA {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.get("file:///D:/SeleniumAutomation/05DemoApps/demo.html");
-		System.out.println("====Application Launched========");
+		System.out.println("====QA Launched========");
 		
 	}
 
